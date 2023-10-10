@@ -1,6 +1,6 @@
 # GuilleSL
 
-<h3 align="left">Hi there, I'm a backend developer from Spain 👋</h3>
+<h3 align="left">Hi there, I'm a full stack developer from Spain 👋</h3>
 
 - 🔭 I’m currently working on **Telefónica I+D**
 
