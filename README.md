@@ -7,7 +7,7 @@
 **Languages and Tools**
 <p align="center">
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
-	<img style="padding: 10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&psig=AOvVaw3_mZpJymiKTQ7D-wk5-eVR&ust=1697018072813000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCox4yb64EDFQAAAAAdAAAAABAE" alt="docker" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://raw.githubusercontent.com/docker/docker-website/master/static/img/logos/docker-logo.svg" alt="docker" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="lua" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" alt="spring" width="60" height="40"/>
