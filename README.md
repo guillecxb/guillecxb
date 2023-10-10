@@ -1,5 +1,3 @@
-# GuilleSL
-
 <h3 align="left">Hi there, I'm a full stack developer from Spain 👋</h3>
 
 - 🔭 I’m currently working on **Telefónica I+D**
@@ -7,7 +5,7 @@
 **Languages and Tools**
 <p align="center">
 	<img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="bash" width="80" height="40"/>
-	<img style="padding: 10px;" src="https://raw.githubusercontent.com/docker/docker-website/master/static/img/logos/docker-logo.svg" alt="docker" width="40" height="40"/>
+	<img style="padding: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVFXBL1HxbgblpazOCPi9WD8pQnug5nj5sroGSUfI7&s" alt="docker" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="lua" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/>
 	<img style="padding: 10px;" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" alt="spring" width="60" height="40"/>
